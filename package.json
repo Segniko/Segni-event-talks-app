@@ -1,0 +1,11 @@
+{
+  "name": "event-website",
+  "version": "1.0.0",
+  "description": "A simple event website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

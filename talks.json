@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "description": "A deep dive into the next features of JavaScript and what they mean for web development."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "APIs", "Backend"],
+    "description": "Learn how to build robust and scalable APIs using Node.js and best practices."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Deep Dive",
+    "speakers": ["Emily Jones", "David Lee"],
+    "category": ["CSS", "Frontend"],
+    "description": "Master the power of CSS Grid and Flexbox to create complex and responsive layouts with ease."
+  },
+  {
+    "title": "Introduction to Machine Learning with TensorFlow.js",
+    "speakers": ["Maria Garcia"],
+    "category": ["Machine Learning", "TensorFlow.js", "JavaScript"],
+    "description": "An introduction to the world of machine learning in the browser with TensorFlow.js."
+  },
+  {
+    "title": "State Management in React with Redux",
+    "speakers": ["Chris Williams"],
+    "category": ["React", "Redux", "State Management"],
+    "description": "A comprehensive guide to managing application state in React using the Redux library."
+  },
+  {
+    "title": "The Power of Serverless",
+    "speakers": ["Michael Brown"],
+    "category": ["Serverless", "Cloud", "Architecture"],
+    "description": "Discover the benefits of serverless architecture and how to build and deploy serverless applications."
+  }
+]
